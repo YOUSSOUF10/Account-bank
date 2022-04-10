@@ -4,4 +4,4 @@ services:
   mongo:
     image: mongo:latest
     ports:
-      - "15071:15071"
+      - "27017:27017"
